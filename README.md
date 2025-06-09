@@ -1,3 +1,3 @@
-# Dejav-
-Avance 2,3 y 4. 
+# Dejavu
+Entrega de Web HTML personal
 file:///C:/Users/Lenovo/Downloads/dejavu2/dejavu1/index.html
